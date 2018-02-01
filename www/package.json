@@ -1,29 +1,27 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
-    "version": "4.0.0-beta.2",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "title": "Jakub Gramburg - Jacup",
+    "name": "Jakub Gramburg",
+    "version": "0.6",
+    "description": "Jakub Gramburg - IT Developer. Shops, blogs, websites. ",
     "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+        "jakub",
+        "gramburg",
+        "developer",
+        "webdesigner",
+        "it",
+        "jacup"
+        "jakub gramburg"
+        "student"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://www.jacup.pl",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://github.com/Jacup",
+        "email": "jacup@jacup.pl"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Jakub Gramburg",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/Jacup/jacuppl.git"
     },
     "dependencies": {
         "bootstrap": "^4.0.0-beta.2",
